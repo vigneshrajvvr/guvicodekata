@@ -1,7 +1,7 @@
 N = int(input())
 K = int(input())
 sum = 0
-l =[]
+l =[] 
 for i in range(N):
     x = int(input())
     l.append(x)
