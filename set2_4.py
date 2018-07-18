@@ -5,4 +5,4 @@ if N < Q:
         if i % 2 !=0:
             print(i)
 else:
-    print("Invalid Input")
+    print("Invalid Input") 
