@@ -1,7 +1,7 @@
-N = int(input())
-Q = int(input())
-if N < Q:
-    for j in range(N+1,Q):
+n = int(input())
+q = int(input())
+if n < q:
+    for j in range(n+1,q):
         for i in range(2,j): 
             if j%i !=0:
                 if i == j-1:
